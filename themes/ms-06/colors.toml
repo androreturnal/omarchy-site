@@ -1,0 +1,38 @@
+# MS-06 — Char's Zaku maroon / magenta theme
+
+mode = "dark"
+
+accent = "#a26695"
+selection = "#1e2026"
+selection_foreground = "#05070e"
+muted = "#5d5c63"
+
+background = "#07060e"
+dark_background = "#05050c"
+darker_background = "#030308"
+lighter_background = "#1e2026"
+
+foreground = "#f8ebf3"
+dark_foreground = "#b7a0ad"
+light_foreground = "#fbe2ec"
+bright_foreground = "#fef1f5"
+
+red = "#c27b8a"
+yellow = "#ffccbf"
+orange = "#e188b4"
+green = "#fea590"
+cyan = "#fbbaff"
+blue = "#a26695"
+magenta = "#e188b4"
+brown = "#7c5760"
+
+bright_red = "#e38a9e"
+bright_yellow = "#ffc6b7"
+bright_green = "#ffb398"
+bright_cyan = "#ffc9ff"
+bright_blue = "#bf75b0"
+bright_magenta = "#ff94cd"
+
+theme_name = "MS-06"
+theme_author = "silica"
+theme_description = "Char's Zaku maroon / magenta, matched to the Omarchy desktop."
