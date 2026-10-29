@@ -260,6 +260,11 @@
   "name": "Ghost Pastel"
  },
  {
+  "repo": "https://github.com/androreturnal/omarchy-gustave-courbet",
+  "image": "/assets/themes/gustave-courbet.webp",
+  "name": "Gustave Courbet"
+ },
+ {
   "repo": "https://github.com/tahayvr/omarchy-gold-rush-theme",
   "image": "/assets/themes/gold-rush.webp",
   "name": "Gold Rush"
